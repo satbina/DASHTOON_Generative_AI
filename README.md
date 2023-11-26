@@ -1,6 +1,8 @@
 # DASHTOON_Generative_AI
 
 The dashtoon_GAI.ipynb Jupyter File consist of demonstration of the Neural Network Style Transfer 
+
+Provide the Input Image Path: Style Image Path and Content Image Path 
 Description:
 
 This Jupyter notebook demonstrates the implementation of a style transfer algorithm using the pre-trained VGG-19 model based on Convolutional Neural Networks (CNNs). The primary goal is to extract content and style features from input images and generate a new image that combines the content of one image with the artistic style of another.
